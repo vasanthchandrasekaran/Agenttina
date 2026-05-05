@@ -1,0 +1,26 @@
+{
+  "name": "avaniko",
+  "owner": {
+    "name": "Priyadharshan",
+    "email": "priyadharshan.sureshkumar@avaniko.com"
+  },
+  "metadata": {
+    "description": "Avaniko's plugin marketplace — sales, finance, and operations co-pilots for B2B teams.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "avaniko-agent-tina",
+      "source": "./plugins/avaniko-agent-tina",
+      "description": "Sales co-pilot: pipeline review, account research, call prep, outreach drafting, and autonomous deal-health analysis.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Priyadharshan"
+      },
+      "category": "sales",
+      "tags": ["sales", "pipeline", "crm", "outreach", "forecast", "deal-health"],
+      "license": "MIT",
+      "keywords": ["sales", "co-pilot", "pipeline", "prospecting"]
+    }
+  ]
+}
