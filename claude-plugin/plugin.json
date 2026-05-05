@@ -1,0 +1,17 @@
+{
+  "name": "avaniko-agent-tina",
+  "version": "0.1.0",
+  "description": "Sales co-pilot plugin: pipeline review, account research, call prep, outreach drafting, and autonomous deal-health analysis. Tool-agnostic — works with any CRM, chat, email, or enrichment connector.",
+  "author": {
+    "name": "Priyadharshan"
+  },
+  "keywords": [
+    "sales",
+    "pipeline",
+    "crm",
+    "outreach",
+    "forecast",
+    "deal-health"
+  ],
+  "license": "MIT"
+}
